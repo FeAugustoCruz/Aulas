@@ -14,6 +14,6 @@ public class Aula3 {
         Operação ternária: valor = (n1 < n2) ? n1 : n2;
         */
         
-            
+           
     }
 }
