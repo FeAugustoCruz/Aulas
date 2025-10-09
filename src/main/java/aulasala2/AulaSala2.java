@@ -43,7 +43,7 @@ public class AulaSala2 {
     //pessoas é um ponteiros para um objeto Vector<Pessoas>(5)
     
     for(int i = 0; i < pessoas.length; i ++){
-        pessoas[i] = Pessoa;
+        //pessoas[i] = new Pessoa();
     
     }
     
@@ -64,6 +64,21 @@ public class AulaSala2 {
     String nome = "Bruno";
     String nome2 = "Bruno";
     
-    System.out.println(nome.iguals(nome2));
+    //System.out.println(nome.iguals(nome2));
+    
+    /*
+    public class Variaveis{
+	private String nome;
+	protected int numero;
+	public boolean ativo;
+	public void metodo(int y, int numero){
+		int m = y * 2;
+		numero = m;
+		this.numero = 10;
+	}
+}
+    nome: Tipo de referência, variavel de instancia (dentro da classe)
+    numero: Tipo primitivo 
+    */
     }
 }
