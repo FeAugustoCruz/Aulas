@@ -9,5 +9,5 @@ package aulasala3;
  * @author Fernando
  */
 public class Quadro {
-    
+    String texto;
 }

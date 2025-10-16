@@ -9,10 +9,18 @@ package aulasala3;
  * @author Fernando
  */
 public class Sala {
-   //Questão 4)
-   aulasala3.Quadro quadro = new aulasala3.Quadro(); 
-   //ligação entre classes!
+    public static void main(String[] args) {
+        //Questão 4)
+        aulasala3.Quadro quadro = new aulasala3.Quadro(); 
+        //ligação entre classes!
    
-   //Questão 4.1)
-   aulasala3.Quadro[] quadro = new aulasala3.Quadro();
+        //Questão 4.1)
+        aulasala3.Quadro quadro2[] = new aulasala3.Quadro[3];
+        
+        // Se quiser instanciar os objetos dentro do vetor:
+        for (int i = 0; i < quadro2.length; i++) {
+            quadro2[i] = new aulasala3.Quadro();
+        //preenchendo um vetor com objetos "Quadros"
+        }
+    }
 }
