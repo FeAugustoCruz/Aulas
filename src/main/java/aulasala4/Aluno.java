@@ -3,7 +3,7 @@ package aulasala4;
 public class Aluno{
     private String nomeDoAluno;// - nomeDoAluno
     private double nota1, nota2;// - nota1 - nota2
-    private double media = calculaMedia();// - /media double;
+    //private double media = calculaMedia();// - /media double; <- aaatributo desnecessário!
             
     
     public Aluno(String nome, double nota1, double nota2){
@@ -13,6 +13,8 @@ public class Aluno{
         //super(); -> herança de uma classe para outra
     }//Método constrictor de uma classe genérica prepara o estado de um objeto para que fique pronto para uso.
     
+    
+    //Sobrecarga -> quantidades de paramentros maiores ou trocar as ordem dos parâmetros
     
     public Aluno(){
     
@@ -46,7 +48,11 @@ public class Aluno{
     } 
    
     public void setNota2(double nota2){
-        this.nota2 = nota2;
+        if(nota2 >= 0.0 && nota2 <= 10.0){
+            this.nota2 = nota2;
+        }else{
+            System.out.println("Valor de nota inválido!\n");
+        }
     }
     
     public double calculaMedia(){
