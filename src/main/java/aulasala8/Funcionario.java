@@ -21,7 +21,7 @@ public class Funcionario {
     }
     
     public static void criaInstancia(String nome){
-        if(Funcionario.instancia == null){//
+        if(Funcionario.instancia == null){//Verificando se a instancia recebeu a referencia do objeto, se sim, não sera premitido 
             Funcionario.instancia = new Funcionario(nome);
         }
     }
