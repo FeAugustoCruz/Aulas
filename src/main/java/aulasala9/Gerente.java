@@ -29,8 +29,11 @@ public class Gerente extends Funcionario{
     }
     
     public static void main(String[] args) {
-        Funcionario g = new Gerente("Fernando", "Sul");
+  
         
+        Funcionario g = new Gerente("Fernando", "Sul");//Variavel g sendo tratada como Funcionario mais operadn ocomo gerente!.
+ 
+        Gerente x = (Gerente) g;//-> Type Casting tratando a variavel x como Gerente
         
         Funcionario[] empregados = new Funcionario[10];
         
