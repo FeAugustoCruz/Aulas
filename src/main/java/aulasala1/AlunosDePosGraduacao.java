@@ -40,5 +40,6 @@ public class AlunosDePosGraduacao {//-> forma utilizando o CamelCase
         //variáveis de pilhas: variáveis criadas dentro de um método.
         //métodos são armazenados em pilhas, logo suas váriaveis serão em pilhas
         return media;
+        
     }
 }//Escopo de uma classe 

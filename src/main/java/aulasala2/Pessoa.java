@@ -8,11 +8,9 @@ package aulasala2;
  *
  * @author Fernando
  */
-public class AulaSala2 {
-    public class Pessoa{
-        private String nome;
-        private int idade;
-    }
+public class Pessoa {
+    private String nome;
+    private int idade;
     
     public static void main(String[] args){
     int[] numeros = new int[5];
@@ -43,9 +41,10 @@ public class AulaSala2 {
     //pessoas é um ponteiros para um objeto Vector<Pessoas>(5)
     
     for(int i = 0; i < pessoas.length; i ++){
-        //pessoas[i] = new Pessoa();
+        pessoas[i] = new Pessoa();
     
     }
+    
     
     //Operadores lógicos:
     int x = 10;
