@@ -13,6 +13,7 @@ aulasala12\Pesados.class
 aula1\Aulas.class
 aulasala7\Main.class
 aulasala6\Pessoas.class
+exercicios\ConversaoDeUnidadesDeComprimento.class
 aulasala12\Pernsonagem.class
 aulasala13\Agenda.class
 aulasala7\PessoaFisica.class
@@ -25,8 +26,13 @@ aulasala10\A.class
 aulasala13\Contato.class
 aulasala12\Bark.class
 aulasala3\Quadro.class
+exercicios\LampadaWatts.class
+exercicios\Circulo.class
+exercicios\Lampada.class
 aulasala9\Gerente.class
 aulasala10\TestaToString.class
+exercicios\DataComFabrica.class
+exercicios\Ponto2D.class
 aulasala9\Funcionario.class
 aulasala11\Mobilia.class
 aulasala7\Pessoa.class

@@ -9,9 +9,12 @@ public class Carro {
     private int modelo;
     private int ano;
     
-    public Carro(){}
+    public Carro(){
+        super();//-> object class genérico 
+    }
     
     public Carro(String marca, int modelo, int ano){
+        //super()
         this.ano = ano;
         this.marca = marca;
         this.modelo = modelo;

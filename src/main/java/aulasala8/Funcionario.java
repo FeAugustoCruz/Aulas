@@ -10,14 +10,14 @@ package aulasala8;
  */
 public class Funcionario {
     public String nome;
-    public static int cont = 0;
-    private static Funcionario instancia = null;
+    public static int cont = 0;//variavel de classe
+    private static Funcionario instancia = null;//variável de classe
     
     
     public Funcionario(String nome){//Com o contructor private, podemos criar n vunciopnarios sem limitaçoes como tratar isso?
         this.nome = nome;
-        Funcionario.instancia = this;//O bilder vai armazenar a sua instancia em uma variavel estática uqe ira contar se voce pode ou não criar uma outra instancia  
-        //Funcionario.cont ++;//A variavel cont é stática logo ela é uma variavel da classe que pode ser alterada por qualquer onstancia e conseva seu valor
+        instancia = this;//O bilder vai armazenar a sua instancia em uma variavel estática uqe ira contar se voce pode ou não criar uma outra instancia  
+        Funcionario.cont ++;//A variavel cont é stática logo ela é uma variavel da classe que pode ser alterada por qualquer onstancia e conseva seu valor
     }
     
     public static void criaInstancia(String nome){

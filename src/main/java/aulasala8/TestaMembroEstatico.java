@@ -29,7 +29,9 @@ public class TestaMembroEstatico {
         
         Funcionario.criaInstancia("Fernando");
         
-        Funcionario funcionario = Funcionario.getInstancia();
+        Funcionario funcionario = Funcionario.getInstancia();//parte dinâmica
+        
+        Funcionario.criaInstancia("Lucas");
         
         System.out.println(funcionario.getNome());
         
