@@ -12,7 +12,7 @@ public class Quadrado extends Figura{
     private double lado;
     
     public Quadrado(double lado){
-        super();
+        //super();
         this.lado = lado;
     }
     

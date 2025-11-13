@@ -16,11 +16,11 @@ public class Circul0 extends Figura{
         this.raio = raio;
     }
     
-    public void setCirculo(double raio){
+    public void setRaio(double raio){
         this.raio = raio;
     }
     
-    public double getCirculo(){
+    public double getRaio(){
         return raio;
     }
     
