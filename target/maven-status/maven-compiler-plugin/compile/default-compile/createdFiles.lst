@@ -11,9 +11,11 @@ exercicios\Aluno.class
 exercicios\Gato.class
 aulasala6\Produtos.class
 aulasala8\Funcionario.class
+Lista04ex01\Conectavel.class
 aulasala13\Contato.class
 aulasala12\Bark.class
 aulasala3\Quadro.class
+Lista04ex01\Scanner.class
 exercicios\Circul0.class
 exercicios\Circulo.class
 aulasala10\TestaToString.class
@@ -24,8 +26,10 @@ aulasala7\Pessoa.class
 aulasala3\Pessoa.class
 aulasala3\Contatos.class
 aulasala10\B.class
+Lista3EX08\Vendedor.class
 exercicios\Quadrado.class
 aulasala8\TestaMembroEstatico.class
+Lista3EX08\Pessoa.class
 aulasala4\Aluno.class
 aulasala3\Sala.class
 aulasala7\PessoaJuridica.class
@@ -34,10 +38,13 @@ exercicios\Animal.class
 aula2\Aulas2.class
 aulasala12\Pesados.class
 aula1\Aulas.class
+Lista04ex01\Webcam.class
 aulasala6\Pessoas.class
 exercicios\ConversaoDeUnidadesDeComprimento.class
 aulasala13\Agenda.class
 aulasala7\PessoaFisica.class
+Lista04ex01\Principal.class
+Lista3EX08\Funcionario.class
 aulasala1\AlunosDePosGraduacao.class
 exercicios\Carro.class
 exercicios\Moto.class
@@ -47,6 +54,7 @@ aulasala5\TesteVetores.class
 aulasala10\A.class
 exercicios\LampadaWatts.class
 exercicios\Funcionario.class
+Lista04ex01\Impressora.class
 exercicios\Lampada.class
 aulasala9\Gerente.class
 exercicios\Veiculo.class

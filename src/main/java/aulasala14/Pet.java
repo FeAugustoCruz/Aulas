@@ -1,13 +1,9 @@
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+
 package aulasala14;
 
-/**
- *
- * @author Fernando
- */
 //Uma unterface é uma forma memos formal de contrto de implementação!. Isso é são usadas para expecificar certos comportamentos de certas cãsses que outra não devem execultatr
 //Supondo que Animal |comer()|vaguear()|... ~~ Felino() -> Animal() ~~ Leao() -> Felino() 
 //Gato() -> Felino() && Gato() -~> Pet()(Interface)
@@ -40,3 +36,4 @@ public class Pet {
         //Observe que estamos inicioando objetos no vetor de pets de varios tipos, porem todos eles visualizam apenas o que o Pet execulta.
     }
 }
+*/
