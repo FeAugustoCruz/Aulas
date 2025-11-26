@@ -8,6 +8,6 @@ package Lista04ex02;
  *
  * @author Fernando
  */
-public class CartaoCredito implements MetodoPagamento{
+//public class CartaoCredito implements MetodoPagamento{
     
-}
+//}
