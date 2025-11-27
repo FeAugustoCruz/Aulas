@@ -6,12 +6,14 @@ aula3\Aula3.class
 aulasala6\Carro.class
 aulasala7\Main.class
 exercicios\PoligonoRegular.class
+aulasala15\Dado.class
 aulasala12\Pernsonagem.class
 exercicios\Aluno.class
 exercicios\Gato.class
 aulasala6\Produtos.class
 aulasala8\Funcionario.class
 Lista04ex01\Conectavel.class
+aulasala15\PessoaJuridica.class
 aulasala13\Contato.class
 aulasala12\Bark.class
 aulasala3\Quadro.class
@@ -38,6 +40,7 @@ exercicios\Animal.class
 aula2\Aulas2.class
 aulasala12\Pesados.class
 aula1\Aulas.class
+aulasala15\PessoaFisica.class
 Lista04ex01\Webcam.class
 aulasala6\Pessoas.class
 exercicios\ConversaoDeUnidadesDeComprimento.class
@@ -47,6 +50,7 @@ Lista04ex01\Principal.class
 Lista04ex02\MetodoPagamento.class
 Lista3EX08\Funcionario.class
 aulasala1\AlunosDePosGraduacao.class
+aulasala15\Pessoa.class
 exercicios\Carro.class
 exercicios\Moto.class
 exercicios\Pessoa.class
@@ -64,4 +68,5 @@ exercicios\Gerente.class
 aulasala11\Mobilia.class
 aulasala3\Produtos.class
 aulasala15\Collection.class
+aulasala15\Dado2.class
 aulasala11\Cadeira.class
