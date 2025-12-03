@@ -17,7 +17,10 @@ public class Dado3<E extends Pessoa>{
     }
     
     public void metodoTeste(List<?super PessoaJuridica> li){
-        
+        for(int i = 0; i < li.size(); i ++){
+            //li[i].getCnpj();
+            System.out.println("TESTE");
+        }
     }
     
     public static void main(String[] args) {
@@ -26,7 +29,10 @@ public class Dado3<E extends Pessoa>{
         lista.add(new Pessoa("Fernando", 1843323));
         lista.add(new Pessoa("Teste", 434213));
         
-        Dado<Pessoa> dado = new Dado<>(new Pessoa("Tese", 323213));
+        //Observe que estamos utilzando uma função que requisita um paramentros
+        //do tipo super em relação a PessoaJuridica, tal superclasse é a própria
+        //classe Pessoa()
+        Dado3<Pessoa> dado = new Dado3<>(new Pessoa("Tese", 323213));
         dado.metodoTeste(lista);
     }
 }
