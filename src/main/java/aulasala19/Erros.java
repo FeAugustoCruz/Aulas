@@ -1,0 +1,20 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package aulasala19;
+
+/**
+ *
+ * @author Fernando
+ */
+public class Erros {
+    public static void main(String[] args) {
+        try{
+            int resultados = 10/0;
+        }catch (ArithmeticException e){
+            System.out.println("Nao existe divisao por zero !");
+        
+        }
+    }
+}

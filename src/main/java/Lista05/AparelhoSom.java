@@ -26,7 +26,7 @@ public abstract class AparelhoSom {
         }
         
         for(AparelhoSom aparelho: aparelhos){
-            if (aparelho instanceOf(TocaFitas)){
+            if (){
                 
             }
         }
