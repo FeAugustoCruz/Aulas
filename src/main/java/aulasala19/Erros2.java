@@ -9,12 +9,12 @@ package aulasala19;
  * @author Fernando
  */
 public class Erros2 {
-    public static void main(String[] args) {
+    /*public static void main(String[] args) {
         try{
             int[] nums = {1,3,-5};
             System.out.println(nums[3]);
         }catch(ArrayIndexOutBoundsException e){
             System.out.println("");
         }
-    }
+    }*/
 }

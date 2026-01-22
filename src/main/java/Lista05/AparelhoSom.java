@@ -25,10 +25,10 @@ public abstract class AparelhoSom {
             aparelho.som();
         }
         
-        for(AparelhoSom aparelho: aparelhos){
+        /*for(AparelhoSom aparelho: aparelhos){
             if (){
                 
             }
-        }
+        }*/
     }
 }

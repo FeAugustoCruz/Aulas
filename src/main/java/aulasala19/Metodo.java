@@ -13,7 +13,7 @@ package aulasala19;
 //Exception -> necessita de um tyr catch
 public class Metodo {
     
-    public static void metodo() throws{
+    /*public static void metodo() throws{
         new java.io.FileNotFoundException("arquivo.txt");
     }
     
@@ -23,5 +23,5 @@ public class Metodo {
         } catch (java.io.FileNotFoundException e){
             System.out.println("Arquivo nçao encontrado");
         }
-    }
+    }*/
 }

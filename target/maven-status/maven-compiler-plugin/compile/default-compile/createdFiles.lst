@@ -5,6 +5,8 @@ exercicios\Figura.class
 aula3\Aula3.class
 aulasala18\ComparaPessoaIdade.class
 aulasala6\Carro.class
+Lista05\AparelhoSom.class
+aulasala19\Erros.class
 aulasala15\Dado3.class
 aulasala18\ComparaPessoaNomeIdade.class
 aulasala7\Main.class
@@ -12,6 +14,7 @@ exercicios\PoligonoRegular.class
 aulasala15\Dado.class
 aulasala12\Pernsonagem.class
 aulasala16\TesteColecoes2.class
+Lista05\Caixa.class
 exercicios\Aluno.class
 exercicios\Gato.class
 aulasala17\Pessoa.class
@@ -19,6 +22,7 @@ aulasala6\Produtos.class
 aulasala8\Funcionario.class
 aulasala16\Pessoa.class
 aulasala18\Pessoa.class
+aulasala19\Conta.class
 Lista04ex01\Conectavel.class
 aulasala15\PessoaJuridica.class
 aulasala13\Contato.class
@@ -27,6 +31,8 @@ aulasala18\ComparaPessoaNome.class
 aulasala3\Quadro.class
 Lista04ex01\Scanner.class
 exercicios\Circul0.class
+exercicios_exececoes\Calculadore.class
+aulasala19\Erros2.class
 exercicios\Circulo.class
 aulasala10\TestaToString.class
 exercicios\DataComFabrica.class
@@ -51,7 +57,9 @@ aulasala12\Pesados.class
 aula1\Aulas.class
 aulasala15\PessoaFisica.class
 Lista04ex01\Webcam.class
+aulasala19\Metodo.class
 aulasala6\Pessoas.class
+Lista05\Radio.class
 exercicios\ConversaoDeUnidadesDeComprimento.class
 aulasala13\Agenda.class
 aulasala7\PessoaFisica.class
@@ -71,6 +79,7 @@ exercicios\Funcionario.class
 Lista04ex01\Impressora.class
 exercicios\Lampada.class
 aulasala9\Gerente.class
+Lista05\TocaFitas.class
 exercicios\Veiculo.class
 exercicios\Ponto2D.class
 exercicios\Gerente.class
