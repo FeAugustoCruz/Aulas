@@ -55,4 +55,5 @@ public class Dado<E>{
         
     }   
 }
-//OBS: Naõ pe possivel uma clase generica ter um meodo generico! se uma classe generica defini um metodo generico esta deve ser constant
+//Uma classe genérica pode possuir métodos genéricos.
+//Métodos estáticos não podem usar o tipo genérico da classe, devendo declarar seu próprio tipo genérico.
