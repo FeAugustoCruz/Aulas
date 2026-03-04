@@ -10,9 +10,9 @@ package exercicios_exececoes;
  */
 public class SistemaFinanceiro {
     public void efeturarPagamento(){
-        ServicoPagamento servico = ServicoPagamento();
+        ServicoPagamento servico = new ServicoPagamento();
         try{
-            servico.realizarPagamento(100.0, 150.0);
+            servico.realizarPagamento(200, 130);
         }catch(RuntimeException e){
             System.out.println("Erro no sistema financeiro" + e.getMessage());
         }

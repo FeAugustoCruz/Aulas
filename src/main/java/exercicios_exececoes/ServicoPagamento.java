@@ -9,12 +9,12 @@ package exercicios_exececoes;
  * @author Fernando
  */
 public class ServicoPagamento {
-    public ServicoPagemento(){}
     
-    public void realizarPagamento(double saldo, double pagar) throws Exception{
+    
+    public void realizarPagamento(double saldo, double pagar){
         double total = saldo - pagar;
         if(total < 0){
-                throw new RuntimeException("Saldo insuficiente");
+            throw new RuntimeException("Saldo insuficiente");
         }
         System.out.println("Pagamento realizado com sucesso.");
     }
